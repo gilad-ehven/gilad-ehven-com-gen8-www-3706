@@ -1,0 +1,12 @@
+{
+    "mode": "ssr",
+    "platform": "astro",
+
+    "git": "https://github.com/GiladEhven/gilad-ehven-com-gen8-www-3706",
+
+    "production": "none",
+    "qa": "none",
+    "remdev": "none",
+    "staging": "none",
+    "training": "none"
+}
